@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WhatsApp</string>
+    <string name="sample_name">Sample Name</string>
+    <string name="tap_to_chat">Tap to chat</string>
+</resources>

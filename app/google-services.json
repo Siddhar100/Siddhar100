@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1021666682863",
+    "firebase_url": "https://chatsapp-f4d87-default-rtdb.firebaseio.com",
+    "project_id": "chatsapp-f4d87",
+    "storage_bucket": "chatsapp-f4d87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021666682863:android:76e8a84be5b34d577b381a",
+        "android_client_info": {
+          "package_name": "com.siddhartha.chatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021666682863-rhpatbsm7hfa2mcpc7lhchhei8beishk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm0QZt85bGK8KJdZmQnB0Zp5o033iduZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021666682863-rhpatbsm7hfa2mcpc7lhchhei8beishk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
